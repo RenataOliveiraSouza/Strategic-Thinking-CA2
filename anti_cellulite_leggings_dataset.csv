@@ -1,0 +1,81 @@
+product_id,brand,price_eur,rating,reviews,color,material,waist_type,texture,claim,anti_cellulite,country
+1,ShapeTech,74.97,3.9,105,Green,Compression Fabric,Mid Waist,Honeycomb,Shaping,0,Germany
+2,ShapeTech,17.49,4.6,54,Blue,Polyester/Spandex,High Waist,3D,Shaping,0,Spain
+3,Slimove,76.08,4.3,478,Blue,3D Honeycomb,High Waist,Honeycomb,Shaping,0,Italy
+4,Solidea,71.15,4.4,93,Black,Polyester/Spandex,High Waist,Honeycomb,Compression,0,Spain
+5,Fanka,61.99,4.5,360,Black,Polyamide,High Waist,Honeycomb,Butt-lift,0,Germany
+6,GymPro,49.14,4.5,401,Blue,Polyester/Spandex,High Waist,Smooth,Anti-cellulite,1,Italy
+7,Plumi,58.85,4.7,65,Purple,Compression Fabric,Mid Waist,Smooth,Compression,0,Italy
+8,HoneyFit,45.62,4.6,107,Purple,Polyester/Spandex,Mid Waist,Honeycomb,Anti-cellulite,1,Germany
+9,Solidea,48.86,4.8,193,Purple,Polyamide,Mid Waist,Smooth,Butt-lift,0,Italy
+10,FlexActive,12.16,4.0,173,Gray,Polyester/Spandex,Mid Waist,Honeycomb,Butt-lift,0,UK
+11,FlexActive,39.69,5.0,373,Pink,Nylon/Spandex,Mid Waist,Ribbed,Anti-cellulite,1,Ireland
+12,FlexActive,26.42,5.0,169,Green,Polyamide,Mid Waist,Honeycomb,Compression,0,Germany
+13,Solidea,47.85,4.8,387,Purple,3D Honeycomb,Mid Waist,Honeycomb,Butt-lift,0,UK
+14,ShapeTech,49.13,4.3,272,Pink,Polyester/Spandex,Mid Waist,Honeycomb,Anti-cellulite,1,Brazil
+15,FlexActive,18.83,3.7,95,Black,Polyester/Spandex,High Waist,Honeycomb,Shaping,0,Italy
+16,Fanka,23.14,4.5,54,Green,Polyamide,Mid Waist,3D,Butt-lift,0,Spain
+17,GymPro,72.36,4.4,196,Pink,Polyester/Spandex,Mid Waist,Smooth,Anti-cellulite,1,Spain
+18,Slimove,40.84,3.6,347,Purple,Compression Fabric,High Waist,Ribbed,Anti-cellulite,1,Italy
+19,GymPro,68.81,3.7,452,Gray,Polyamide,High Waist,Honeycomb,Butt-lift,0,Italy
+20,ShapeTech,73.53,4.1,264,Black,Compression Fabric,High Waist,Honeycomb,Butt-lift,0,Germany
+21,FlexActive,12.85,4.1,157,Gray,3D Honeycomb,Mid Waist,Honeycomb,Butt-lift,0,Italy
+22,ShapeTech,49.88,4.3,189,Green,Polyester/Spandex,High Waist,Ribbed,Anti-cellulite,1,UK
+23,Solidea,48.7,4.6,161,Purple,Nylon/Spandex,Mid Waist,3D,Shaping,0,UK
+24,Plumi,78.24,3.6,416,Blue,Nylon/Spandex,High Waist,3D,Compression,0,Spain
+25,Slimove,77.44,4.5,361,Black,Polyester/Spandex,High Waist,Smooth,Shaping,0,Germany
+26,Plumi,29.18,4.9,186,Black,Compression Fabric,Mid Waist,Honeycomb,Shaping,0,UK
+27,Fanka,43.74,4.7,190,Black,Compression Fabric,Mid Waist,Ribbed,Anti-cellulite,1,Ireland
+28,Plumi,65.28,4.9,319,Pink,3D Honeycomb,High Waist,3D,Butt-lift,0,Ireland
+29,Solidea,40.14,4.6,189,Pink,3D Honeycomb,High Waist,Honeycomb,Anti-cellulite,1,Italy
+30,Fanka,28.97,4.2,349,Blue,3D Honeycomb,High Waist,3D,Shaping,0,Spain
+31,FlexActive,38.78,4.7,219,Black,Polyamide,High Waist,3D,Anti-cellulite,1,UK
+32,Slimove,89.0,4.3,389,Black,Nylon/Spandex,Mid Waist,Ribbed,Butt-lift,0,Brazil
+33,Slimove,35.87,4.0,429,Pink,3D Honeycomb,Mid Waist,3D,Anti-cellulite,1,Spain
+34,Fanka,43.64,4.9,98,Gray,Nylon/Spandex,High Waist,Ribbed,Compression,0,Germany
+35,Fanka,38.93,3.9,132,Blue,Nylon/Spandex,Mid Waist,Honeycomb,Anti-cellulite,1,Ireland
+36,Slimove,55.45,4.5,457,Pink,3D Honeycomb,Mid Waist,Ribbed,Anti-cellulite,1,Brazil
+37,Solidea,47.57,3.7,44,Black,Polyester/Spandex,Mid Waist,Honeycomb,Butt-lift,0,Spain
+38,Solidea,92.41,4.5,264,Blue,Polyester/Spandex,Mid Waist,Ribbed,Anti-cellulite,1,Spain
+39,Solidea,55.95,4.0,15,Purple,Compression Fabric,High Waist,Ribbed,Anti-cellulite,1,Italy
+40,Slimove,83.69,4.0,431,Pink,Polyester/Spandex,High Waist,Smooth,Anti-cellulite,1,Ireland
+41,HoneyFit,84.67,4.9,103,Gray,Polyamide,High Waist,Honeycomb,Anti-cellulite,1,Brazil
+42,FlexActive,72.68,3.8,392,Pink,Polyamide,Mid Waist,Smooth,Anti-cellulite,1,Brazil
+43,Slimove,68.29,4.8,357,Black,Polyamide,High Waist,Ribbed,Butt-lift,0,Italy
+44,HoneyFit,57.73,4.5,347,Green,Nylon/Spandex,Mid Waist,3D,Anti-cellulite,1,Brazil
+45,Plumi,30.42,3.9,407,Purple,Polyamide,High Waist,Smooth,Shaping,0,UK
+46,ShapeTech,98.39,4.5,139,Blue,Polyester/Spandex,High Waist,Smooth,Anti-cellulite,1,Spain
+47,HoneyFit,46.46,4.7,355,Gray,Nylon/Spandex,High Waist,3D,Butt-lift,0,Spain
+48,Slimove,53.49,3.8,263,Gray,Compression Fabric,Mid Waist,Smooth,Anti-cellulite,1,Germany
+49,HoneyFit,57.38,4.7,261,Blue,Polyester/Spandex,High Waist,Ribbed,Compression,0,Italy
+50,HoneyFit,26.97,3.7,96,Blue,Polyester/Spandex,High Waist,3D,Anti-cellulite,1,Italy
+51,Solidea,20.16,4.3,31,Purple,3D Honeycomb,High Waist,Smooth,Anti-cellulite,1,Italy
+52,FlexActive,92.95,4.1,95,Purple,Nylon/Spandex,High Waist,Honeycomb,Anti-cellulite,1,Germany
+53,HoneyFit,14.94,4.9,79,Purple,Polyamide,High Waist,Smooth,Anti-cellulite,1,UK
+54,ShapeTech,43.6,3.7,357,Blue,Compression Fabric,Mid Waist,Ribbed,Butt-lift,0,Italy
+55,HoneyFit,12.67,3.7,19,Blue,Nylon/Spandex,High Waist,Smooth,Compression,0,Italy
+56,Slimove,53.35,4.5,398,Green,Polyamide,Mid Waist,Honeycomb,Anti-cellulite,1,UK
+57,Plumi,46.52,3.8,377,Black,3D Honeycomb,Mid Waist,Smooth,Shaping,0,Spain
+58,Solidea,68.06,4.8,405,Black,Polyamide,High Waist,3D,Butt-lift,0,UK
+59,GymPro,74.4,4.4,246,Purple,Polyamide,High Waist,3D,Anti-cellulite,1,Spain
+60,FlexActive,21.86,4.9,315,Purple,Compression Fabric,Mid Waist,Honeycomb,Anti-cellulite,1,Brazil
+61,ShapeTech,29.88,3.7,440,Gray,Compression Fabric,High Waist,3D,Anti-cellulite,1,Germany
+62,FlexActive,38.42,3.8,471,Green,Compression Fabric,Mid Waist,Honeycomb,Compression,0,Germany
+63,Fanka,83.19,3.7,352,Purple,Polyester/Spandex,High Waist,Smooth,Compression,0,Italy
+64,ShapeTech,43.14,4.7,361,Purple,Polyamide,Mid Waist,Honeycomb,Compression,0,UK
+65,Slimove,25.04,4.6,363,Green,Polyester/Spandex,Mid Waist,Honeycomb,Anti-cellulite,1,Ireland
+66,ShapeTech,54.06,4.6,16,Blue,Nylon/Spandex,Mid Waist,3D,Compression,0,Ireland
+67,FlexActive,35.59,4.0,178,Purple,Polyamide,High Waist,3D,Anti-cellulite,1,Brazil
+68,GymPro,47.37,4.4,212,Gray,Compression Fabric,High Waist,Honeycomb,Shaping,0,Germany
+69,Plumi,22.22,4.3,438,Gray,Nylon/Spandex,High Waist,3D,Compression,0,Spain
+70,Plumi,72.38,3.9,35,Blue,3D Honeycomb,High Waist,Smooth,Shaping,0,Germany
+71,HoneyFit,44.58,3.9,243,Black,Compression Fabric,Mid Waist,3D,Shaping,0,Italy
+72,Slimove,19.9,3.6,430,Black,3D Honeycomb,High Waist,Honeycomb,Shaping,0,Ireland
+73,HoneyFit,94.72,4.1,345,Black,Nylon/Spandex,Mid Waist,Honeycomb,Anti-cellulite,1,Spain
+74,GymPro,29.5,4.3,105,Gray,Compression Fabric,High Waist,3D,Anti-cellulite,1,Brazil
+75,Plumi,41.4,4.7,115,Purple,Polyamide,Mid Waist,Honeycomb,Anti-cellulite,1,Spain
+76,Slimove,27.04,5.0,476,Black,Polyester/Spandex,High Waist,Ribbed,Butt-lift,0,Italy
+77,Solidea,87.06,4.4,402,Black,Polyester/Spandex,Mid Waist,Ribbed,Butt-lift,0,Spain
+78,ShapeTech,21.05,4.4,355,Blue,Polyester/Spandex,High Waist,3D,Anti-cellulite,1,Brazil
+79,Fanka,25.58,4.3,388,Green,3D Honeycomb,Mid Waist,Smooth,Compression,0,Italy
+80,Solidea,71.89,4.7,184,Purple,Compression Fabric,Mid Waist,Smooth,Compression,0,Ireland
